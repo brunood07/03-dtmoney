@@ -47,6 +47,22 @@
       "type": "outcome",
       "createdAt": "2022-07-30T13:38:57.560Z",
       "id": 6
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "category": "Venda",
+      "price": 1200,
+      "type": "income",
+      "createdAt": "2022-10-10T11:28:02.682Z",
+      "id": 7
+    },
+    {
+      "description": "Pizza",
+      "category": "Alimentação",
+      "price": 50,
+      "type": "outcome",
+      "createdAt": "2022-10-10T11:44:43.385Z",
+      "id": 8
     }
   ]
 }
